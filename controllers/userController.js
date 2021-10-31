@@ -14,6 +14,8 @@ exports.createUser = (data, callback) => {
                 callback(400, { message: "could not add user", err });
             }
         });
+    }else {
+        callback(400, { message: "Some fields are are compulsory (name, phone and email)" })
     }
 };
 
