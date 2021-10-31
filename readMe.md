@@ -5,7 +5,7 @@ Made a few ajustments to the original code given.
 
 Added the followin features;
 
-1). A get all books route
+1). A get all books, borrow book and retun book routes
 
 2). create use, get all users, get one user, update and user routes 
 
