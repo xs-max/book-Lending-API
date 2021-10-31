@@ -4,11 +4,12 @@ Built using node.js
 Made a few ajustments to the original code given.
 
 Added the followin features;
+
 1). A get all books route
 
 2). create use, get all users, get one user, update and user routes 
 
-How to Use The API;
+## How to Use The API;
 
 
 # BOOK ROUTES
