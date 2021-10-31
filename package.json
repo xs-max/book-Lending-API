@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_task",
+  "version": "1.0.0",
+  "description": "a book lending api",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "code_max",
+  "license": "ISC"
+ 
+}
